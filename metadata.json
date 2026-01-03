@@ -1,0 +1,8 @@
+
+{
+  "name": "Tesouraria IPB - Fluxo de Caixa",
+  "description": "Sistema moderno de gestão financeira para a Igreja Presbiteriana do Brasil, com projeções inteligentes e controle de comprovantes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
